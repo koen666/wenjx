@@ -13,7 +13,11 @@
 /html/body/div[2]/form/div[11]/div[6]/fieldset/div[11]/ul/li[1]/div[1]/span
 /html/body/div[2]/form/div[11]/div[6]/fieldset/div[11]/ul/li[2]/div[1]/span
 
-
+/html/body/div[2]/form/div[11]/div[6]/fieldset/div[11]/ul/li[2]/div[1]/span
+/html/body/div[2]/form/div[11]/div[6]/fieldset/div[11]/ul/li[3]/div[1]/span
+/html/body/div[2]/form/div[11]/div[6]/fieldset/div[11]/ul/li[3]/div[1]/span
+/html/body/div[2]/form/div[11]/div[6]/fieldset/div[11]/ul/li[2]/div[1]/span
+/html/body/div[2]/form/div[11]/div[12]/div[3]/div/div
 格式：
 /html/body/div[2]/form/div[11]/div[6]/fieldset/div[{题号}]/div[2]/div[{选项号}]/span/a
 
