@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wenjx-auto"
+version = "0.1.0"
+description = "Semi-automatic WenJuanXing filler"
+requires-python = "==3.12.*"
+dependencies = [
+    "fastapi>=0.115,<0.116",
+    "uvicorn[standard]>=0.30,<0.33",
+    "playwright>=1.48,<2",
+]
+
+[project.scripts]
+app = "app:main"
+
+[tool.setuptools]
+py-modules = ["app"]
+
+[tool.setuptools.packages.find]
+include = ["api", "services", "models", "templates"]
+
+[tool.uv]
+package = true
+# Add dev-dependencies here if needed, e.g. formatters or linters.
