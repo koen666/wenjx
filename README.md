@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)
 ![Playwright](https://img.shields.io/badge/Playwright-1.48-45ba4b?logo=playwright)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 一个基于 FastAPI + Playwright 的问卷星智能批量填写工具
 
